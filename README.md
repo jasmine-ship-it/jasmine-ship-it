@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @jasmine-ship-it
-- 👀 I’m interested HTML, CSS, JavaScript, Python, Node, Mongoose, Express, Boostrap
-- 🌱 I’m currently learning (same as above)
+- 👀 I’m interested React, Express, JavaScript, Python, MongoDB,Boostrap
+- 🌱 I’m currently learning coding via Udemy online courses:
+     - Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)- by Andrei Neagoi (zerotomastery.io)
+     - The Web Developer Bootcamp 2022 by Colt Steele
+- I have completed my first Art Gallery project bsaed on The Web Developer Bootcamp 2022.
 - 💞️ I’m looking to collaborate on (not yet!)
 - 📫 Can always DM me!
 
