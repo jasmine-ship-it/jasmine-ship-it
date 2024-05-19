@@ -8,9 +8,9 @@
 - MongoDB
 
 🌱 I’ve finished my bootcamp courses:
-**- Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)** by Andrei Neagoi (zerotomastery.io)
+- **Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)** by Andrei Neagoi (zerotomastery.io)
 
-**- The Web Developer Bootcamp 2022** by Colt Steele
+- **The Web Developer Bootcamp 2022** by Colt Steele
 
 I completed my first Art Gallery project based on The Web Developer Bootcamp 2022. My client, Chen Yuan, has reviewed the initial launch and is happy with the features that I have introduced. I am currently working on adding more features and implementing unit testing.
 
