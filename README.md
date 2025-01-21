@@ -13,7 +13,7 @@ I’m a structural engineer with 2 years of self-taught programming experience, 
 * 🤝  I'm open to collaborating on Runsam
 * ⚡  Marathon Runner
 
-### Skills
+### Developing Skills in...
 
 
 <p align="left">
