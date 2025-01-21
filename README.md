@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jasmine Hui
 ===================================================================================================================================
 
-Frontend Developer
+Student
 ------------------
 
 I’m a structural engineer with 2 years of self-taught programming experience, driven by a passion for transitioning into tech. My journey began during a sabbatical, where I discovered the joy of problem-solving and creativity in coding, fuelled by a lifelong curiosity about how things work, a desire for a career blending creativity and impact, and the motivation to wake up excited about meaningful projects.
