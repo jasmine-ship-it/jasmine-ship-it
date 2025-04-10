@@ -8,9 +8,9 @@ I’m a structural engineer with 2 years of self-taught programming experience, 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [jasminehui293@gmail.com](mailto:jasminehui293@gmail.com)
-* 🚀  I'm currently working on [Runsam](http://main--subtle-cheesecake-392dbe.netlify.app/)
-* 🧠  I'm learning Data Science at Hyperiondev
-* 🤝  I'm open to collaborating on Runsam
+* 🚀  I'm currently studying Full-Stack at Code For Girls.
+* 🧠  Data Science graduate at Hyperiondev April 2025
+* 🤝  I'm open to collaborating on Runsam [Runsam](http://main--subtle-cheesecake-392dbe.netlify.app/)
 * ⚡  Marathon Runner
 
 ### Developing Skills in...
